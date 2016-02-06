@@ -1,0 +1,54 @@
+/********************************
+IPAD LANDSCAPE (1024x768)
+********************************/
+
+@media only screen and (max-width: 1200px) {
+	/*.theme-menu ul li a:link, .theme-menu ul li a:visited, .sf-menu li.sfHover ul a:link, .sf-menu li.sfHover ul a:visited {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+nav {
+	 width: 100%;
+	 margin-right:0;
+}
+#searchRVA {
+	margin-top: 50px;
+}*/
+}
+
+/********************************
+IPAD PORTRAIT (768x1024)
+********************************/
+
+@media only screen and (max-width: 960px) {
+	/*.logo{
+		margin: 50px 0 0 0px;
+	}
+#searchRVA {
+    margin-top: -60px;
+    width: 1080px;
+}
+#container {
+	width:1080px;
+}*/
+}
+
+
+/********************************
+IPHONE 4-4S-5 LANDSCAPE (568x320)
+********************************/
+
+@media only screen and (max-width: 760px) {
+	/*#searchRVA {
+    margin-top: -10px;
+}*/
+}
+
+
+/********************************
+IPHONE 4-4S-5 PORTRAIT (320x568)
+********************************/
+
+@media only screen and (max-width: 450px) {
+	
+}

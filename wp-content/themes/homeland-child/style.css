@@ -1,0 +1,196 @@
+/*
+Theme Name: Homeland Child
+Theme URI: http://themeforest.net/item/homeland-responsive-real-estate-wordpress-theme/6518965
+Author: codeex
+Author URI: http://themeforest.net/user/codeex
+Description: A child theme of Homeland Theme
+Template: homeland
+Version: 2.7.5
+*/
+
+/* =Theme customization starts here= */
+
+.logo {
+    text-align: left;
+    width: 100%;
+    position: relative;
+    margin: 0;
+}
+#map-homepage {
+	display: none;
+}
+.ptitle {display: none !important;
+}
+.localLinks a:hover {
+	color: #247efe !important;
+}
+.localLinksRight a:hover {
+	color: #247efe !important;
+}
+.localLinks1 a:hover {
+	color: #247efe !important;
+}
+.localLinksRight2 a:hover {
+	color: #247efe !important;
+}
+.localLinks {
+	float: left;
+}
+.localLinks1 {
+	float: left;
+	margin-left: -20px;
+}
+.localLinksRight {
+	float:right;
+	padding-right: 40px;
+}
+.localLinksRight2 {
+	float:right;
+	padding-right: 10px;
+}
+.localLinksArea{
+	text-align: left;
+	padding-left: 40px;
+}
+.advance-search-block input {
+	border-radius: 10px;
+}
+.selectBox-dropdown .selectBox-label {
+	border-radius: 10px 0px 0px 10px;
+}
+.selectBox-dropdown .selectBox-arrow{
+	border-radius: 0px 10px 10px 0;
+}
+.advance-search-block {
+	padding: 30px 0 10px;
+}
+#container > section.page-title-block-default.header-bg{
+	padding: 0;
+}
+.advance-search-block.advance-search-block-page, .property-page-price {
+	display: none;
+}
+#searchRVA {
+	padding: 20px 0 20px 0;
+    display: block;
+    
+    background: #247efe;
+    
+    color: #fff;
+}
+#IDX-quicksearch-38277 {
+	text-align: center !important;
+}
+#IDX-quicksearchForm-38277 .IDX-qsInput {
+	border-radius: 10px;
+}
+#IDX-qsMinPrice-38277 {
+	width:60px;
+}
+#IDX-qsMaxPrice-38277 {
+	width:80px;
+}
+#IDX-qsMinBed-38277 {
+	width: 50px;
+}
+#IDX-qsMinBath-38277 {
+	width: 50px;
+}
+.blog-icon {
+	display:none;
+}
+.left-container {
+	padding:150px 0 0 0;
+}
+.sidebar {
+	padding: 150px 0 0 0;
+}
+#idx13741_30932-2 > h5{
+	display: none;
+}
+.IDX-mortgageRatesGoBtn {
+	border: 1px solid #1e68ce;
+	background-color: #247efe;
+ 	color: #fff;
+	}
+a.IDX-mortgageRatesGoBtn {
+	color:#fff !important;
+}
+.IDX-mortgageRatesGoBtn:hover {
+	background-color: #fff;
+ 	color: #247efe;
+}
+a.IDX-mortgageRatesGoBtn:hover {
+	color:rgba(255, 255, 255, .7);
+}
+.slider-block {
+	display:none;
+}
+.services-desc {
+	background: rgba(255, 255, 255, .8);
+}
+body {
+	 background-image:url("http://scottsellsrva.hwy87media.com/wp-content/uploads/2015/12/Website-photo-large.jpg");
+	 height: 100vh;
+}
+.welcome-block {
+	background:rgba(0, 0, 0, .8);
+}
+.services-block {
+	padding-top:120px;
+}
+.header-block {
+	display:none;
+}
+.socialMenu ul li {
+	padding: 0px;
+    border: solid 2px #7c7e83;
+    border-radius: 18px;
+    margin: 5px 5px;
+    width: 30px;
+    height: 30px;
+    display: block;
+    float: left;
+    text-align: center;
+    line-height: 30px;
+
+}
+.socialMenu li:hover{
+	background: #247efe;
+	color:#fff !important;
+	border-color:#fff;
+}
+#text-9 > div > div > ul > li> a:hover{
+	color:#fff !important;
+}
+.footerTag {
+	float: right;
+	position: relative;
+	display: block;
+	bottom: 80px;
+}
+.property-list-box {
+	background: rgba(255, 255, 255, .7);
+}
+.theme-menu ul li.current-menu-ancestor a, .theme-menu ul li.current-menu-parent a,.theme-menu ul li.current-menu-item a{
+	background: none !important;
+}
+.theme-menu ul li.current-menu-ancestor a:hover, .theme-menu ul li.current-menu-parent a:hover,.theme-menu ul li.current-menu-item a:hover{
+	background: #247efe !important;
+}
+.theme-menu ul li a:link, .theme-menu ul li a:visited{
+	color: #fff;
+}
+.socialMenu {
+	display: block;
+    position: relative;
+    top: 10px;
+}
+nav {
+	margin-right: 30px;
+}
+.services-desc a.more:hover, .marker-window a.view-gmap:hover {
+    background: #1c64c9;
+}
+
+
